@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LUENEX
-- 👀 I’m interested in ...workinng and learning from anyone willinng
+- 👀 I’m interested in ...workinng and learning from anyone willing
 - 🌱 I’m currently learning ..Learning frontend and backend web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...oluolatkdb17@gmail.com
